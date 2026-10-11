@@ -4,6 +4,8 @@ A few notes from older projects and experiments.
 
 Cleaned up some outdated account references and old links.
 
-Keeping this repository as an archive of previous work.
+Recently found myself reading about decentralized social networks again. It reminded me of the days when I used to post little technical updates, or "toots," on my old instance.
 
-Might organize these notes properly someday.
+I haven't checked that account in a while. Funny how much of our digital history stays scattered across different platforms.
+
+Keeping this repository as an archive of previous work.
