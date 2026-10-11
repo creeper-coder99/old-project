@@ -1,0 +1,9 @@
+Personal Development Notes
+
+A few notes from older projects and experiments.
+
+I used to share short technical updates and random thoughts on a federated social platform.
+
+Old alias: flag_hunter_x
+
+Most of these notes are outdated now, but I'm keeping them here for reference.
